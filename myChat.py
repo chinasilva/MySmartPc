@@ -1,9 +1,7 @@
 #encoding:utf8
 import itchat
-from itchat.content import *
 import os
 import time
-from aip import AipSpeech
 import subprocess
 import string
 # import  xunfei 
@@ -11,6 +9,8 @@ import pydub
 import win32api  
 import re
 import sqlite3
+from itchat.content import *
+from aip import AipSpeech
 from PIL import ImageGrab
 import cv2 #如果使用opencv的话可以远程拍照
 from config import dis as myProgramConfig
