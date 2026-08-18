@@ -1,3 +1,5 @@
+
+
 ﻿
 ![mahua](MySmartPC.png)
 
@@ -23,7 +25,7 @@
 * 邮件(www476369545@qq.com)
 * QQ: 476369545
 
-## 需要下载的包 pip install itchat,pypiwin32,opencv-python,pydub
+## 需要下载的包 pip install itchat,pypiwin32,opencv-python,pydub,aiop
 
 * itchat
 * win32api
